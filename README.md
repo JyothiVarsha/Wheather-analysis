@@ -30,4 +30,4 @@ HOW THE CODE WORKS:
 ​Uses a dark slate background (#1E293B) for a modern, eye-friendly look.
 ​Organizes data cleanly into a grid of 4 display cards: Feels Like, Wind Speed, Precipitation, and Air Quality.
 License
-​This project is open-source and available under the MIT License. Feel free to use, modify, and share it!
+​This project is open-source and available under the MIT License.
